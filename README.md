@@ -31,3 +31,6 @@ The Datasets are from 4 distinct companies including our own (FlexField Fitness)
 - Average Spend on Apparel ($/year): Float
 - Type of Apparel Purchased: String
 - Primary Apparel Purchase Channel: String
+
+# Insights and Conclusion
+We compiled a presentation used at the competition which can be found [here](https://shawngabriel.github.io/portfolio/portfolio-2/)
